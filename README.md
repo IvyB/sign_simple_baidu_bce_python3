@@ -1,5 +1,7 @@
 # sign_simple_baidu_bce_python3
-百度 bce auth 签名生成方法 Python3语法修改
+百度 bce auth 签名生成方法 Python3 语法修改
+官方 Python2.7 版本链接：https://cloud.baidu.com/doc/Reference/AuthenticationMechanism.html#Python.E7.A4.BA.E4.BE.8B
+
 
 执行 2to3 后，进一步修改如下：
 hmac.new 方法只接受 utf8 编码的 byte
