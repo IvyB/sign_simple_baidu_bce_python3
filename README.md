@@ -28,3 +28,6 @@ else:
 /anaconda3/bin/python sign_sample.py
 bce-auth-v1/0b0f67dfb88244b289b72b142befad0c/2015-04-27T08:23:49Z/1800//c2d82f9eb62e93233a60f507b67ede797fa4a75d82eef4c35727f97d23b5defa
 ```
+
+附：
+BceCredentials 处填入的是 api 的 key 和 secret，在控制台可以查到。
